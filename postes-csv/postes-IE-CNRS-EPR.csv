@@ -1,0 +1,61 @@
+Section,Section_label,Année,Postes
+BAP A,"Sciences du vivant, de la terre et de l'environnement",2013,3
+BAP A,"Sciences du vivant, de la terre et de l'environnement",2014,12
+BAP A,"Sciences du vivant, de la terre et de l'environnement",2015,2
+BAP A,"Sciences du vivant, de la terre et de l'environnement",2016,5
+BAP A,"Sciences du vivant, de la terre et de l'environnement",2017,14
+BAP A,"Sciences du vivant, de la terre et de l'environnement",2018,11
+BAP B,"Sciences chimiques et science des matériaux",2013,1
+BAP B,"Sciences chimiques et science des matériaux",2014,2
+BAP B,"Sciences chimiques et science des matériaux",2015,1
+BAP B,"Sciences chimiques et science des matériaux",2016,1
+BAP B,"Sciences chimiques et science des matériaux",2017,1
+BAP B,"Sciences chimiques et science des matériaux",2018,0
+BAP C,"Sciences de l'ingénieur et instrumentation scientifique",2013,0
+BAP C,"Sciences de l'ingénieur et instrumentation scientifique",2014,0
+BAP C,"Sciences de l'ingénieur et instrumentation scientifique",2015,0
+BAP C,"Sciences de l'ingénieur et instrumentation scientifique",2016,3
+BAP C,"Sciences de l'ingénieur et instrumentation scientifique",2017,1
+BAP C,"Sciences de l'ingénieur et instrumentation scientifique",2018,0
+BAP D,"Sciences humaines et sociales",2013,0
+BAP D,"Sciences humaines et sociales",2014,1
+BAP D,"Sciences humaines et sociales",2015,2
+BAP D,"Sciences humaines et sociales",2016,0
+BAP D,"Sciences humaines et sociales",2017,1
+BAP D,"Sciences humaines et sociales",2018,0
+BAP E,"Informatique, statistiques et calcul scientifique",2013,1
+BAP E,"Informatique, statistiques et calcul scientifique",2014,5
+BAP E,"Informatique, statistiques et calcul scientifique",2015,5
+BAP E,"Informatique, statistiques et calcul scientifique",2016,1
+BAP E,"Informatique, statistiques et calcul scientifique",2017,4
+BAP E,"Informatique, statistiques et calcul scientifique",2018,3
+BAP F,"Culture, communication, production et diffusion des savoirs)",2013,1
+BAP F,"Culture, communication, production et diffusion des savoirs)",2014,3
+BAP F,"Culture, communication, production et diffusion des savoirs)",2015,0
+BAP F,"Culture, communication, production et diffusion des savoirs)",2016,0
+BAP F,"Culture, communication, production et diffusion des savoirs)",2017,1
+BAP F,"Culture, communication, production et diffusion des savoirs)",2018,1
+BAP G,"Patrimoine immobilier, logistique, restauration et prévention",2013,0
+BAP G,"Patrimoine immobilier, logistique, restauration et prévention",2014,0
+BAP G,"Patrimoine immobilier, logistique, restauration et prévention",2015,0
+BAP G,"Patrimoine immobilier, logistique, restauration et prévention",2016,1
+BAP G,"Patrimoine immobilier, logistique, restauration et prévention",2017,0
+BAP G,"Patrimoine immobilier, logistique, restauration et prévention",2018,0
+BAP H,"Gestion de la recherche",2013,0
+BAP H,"Gestion de la recherche",2014,0
+BAP H,"Gestion de la recherche",2015,0
+BAP H,"Gestion de la recherche",2016,0
+BAP H,"Gestion de la recherche",2017,0
+BAP H,"Gestion de la recherche",2018,0
+BAP I,"",2013,0
+BAP I,"",2014,0
+BAP I,"",2015,0
+BAP I,"",2016,0
+BAP I,"",2017,0
+BAP I,"",2018,0
+BAP J,"Gestion et pilotage",2013,3
+BAP J,"Gestion et pilotage",2014,1
+BAP J,"Gestion et pilotage",2015,3
+BAP J,"Gestion et pilotage",2016,2
+BAP J,"Gestion et pilotage",2017,1
+BAP J,"Gestion et pilotage",2018,0
